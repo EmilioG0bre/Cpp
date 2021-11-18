@@ -6,4 +6,5 @@ int main()
     std::cin >> name;
     std::cout << "Hello " << name;
     return 0;
+    system("pause");
 }
