@@ -16,4 +16,5 @@ int main()
     } while (i < 4);
     std::cout << "\nThe average is: " << s / 4;
     return 0;
+    system("pause");
 }

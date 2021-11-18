@@ -14,4 +14,5 @@ int main()
     std::cout << "The inverted number is: " << invnum << "\n";
     system("pause");
     return 0;
+    system("pause");
 }

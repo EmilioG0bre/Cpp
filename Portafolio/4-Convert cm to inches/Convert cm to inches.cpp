@@ -10,4 +10,5 @@ int main()
     std::cout << in << " in\n";
     system("pause");
     return 0;
+    system("pause");
 }
